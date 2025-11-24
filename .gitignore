@@ -1,0 +1,44 @@
+# Resume content files (keep folder structure with .gitkeep)
+source/text/*
+!source/text/.gitkeep
+source/json/*
+!source/json/.gitkeep
+output/
+
+# Node modules
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Python (legacy)
+__pycache__/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.backup
+*.bak
+
+# Personal/sensitive information
+*.private
+secrets/
+credentials/
+
+# Claude settings (keep local settings)
+# .claude/settings.local.json

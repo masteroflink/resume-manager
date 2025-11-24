@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Bash(chmod:*)",
+      "Bash(npm view:*)",
+      "Bash(rm:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(npm install)"
+    ],
+    "deny": []
+  }
+}

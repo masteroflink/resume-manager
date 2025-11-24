@@ -1,0 +1,24 @@
+{
+  "name": "resume-management",
+  "version": "1.0.0",
+  "description": "Resume management system",
+  "devDependencies": {
+    "resume-cli": "^3.1.2",
+    "jsonresume-theme-elegant": "*",
+    "jsonresume-theme-paper": "*",
+    "jsonresume-theme-onepage": "*",
+    "jsonresume-theme-short": "*",
+    "jsonresume-theme-kendall": "*",
+    "jsonresume-theme-even": "*",
+    "jsonresume-theme-stackoverflow": "*",
+    "jsonresume-theme-macchiato": "*",
+    "jsonresume-theme-spartan": "*",
+    "jsonresume-theme-class": "*",
+    "jsonresume-theme-classy": "*",
+    "jsonresume-theme-slick": "*",
+    "jsonresume-theme-caffeine": "*",
+    "jsonresume-theme-compact": "*"
+  },
+  "author": "Bruce",
+  "license": "MIT"
+}
